@@ -11,7 +11,7 @@ export default defineConfig({
     vueDevTools(),
   ],
 
-  base: '/ArtemissII-Vue/',
+  base: '/ArtemisII-Vue/',
   
   resolve: {
     alias: {
